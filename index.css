@@ -1,0 +1,193 @@
+section.sec1{
+    /* background-color: burlywood; */
+    background-image: url(photo.avif );
+    background-size: cover;
+    
+}
+.section{
+    background-color: rgba(240, 255, 255, 0.51);
+}
+.logopage{
+    height: 600px;
+    text-align: center;
+    margin-top: 90px;
+}
+img.logo{
+    height: 120px;
+    padding: 10px;
+    
+    
+}
+p.para{
+    font-size: 25px;
+}
+
+.f,.v,.p,.d{
+   text-decoration: none;
+   color: black;
+   padding: 10px;
+}
+
+/* section2 */
+p.scrap{
+    float: left;
+    font-size: 30px;
+}
+img.img1{
+    float: left;
+}
+
+.nav-item{
+    text-align: end;
+}
+a.nav-item{
+    padding: 20px 0 10px 25px;
+    text-decoration: none;
+    /* background-color: rgb(234, 237, 240); */
+
+}
+
+
+/* section3 */
+ 
+ .content{
+    /* text-align: center; */
+ }
+ p.paragraph{
+    float: left;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 20px;
+
+
+ }
+ span.sp1{
+    font-size: 50px;
+ }
+ a.chrome{
+    text-decoration: none;
+    color: red;
+ }
+ span.safari{
+    padding-top: 50px;
+ }
+
+ /* section4 */
+
+ img.lap{
+    margin-top: 60px;
+ }
+ p.lorem{
+    text-align: center;
+    float: left;
+    margin-top: 90px;
+ }
+ span.head1{
+font-size: 30px;
+ }
+
+ /* section5 */
+ .pricing{
+    text-align: center;
+    margin: 5px 0 25px 0 ;
+ }
+ /* .mobile{
+    margin-left: 70px;
+ }
+ span.ipad{
+    margin-left: 50px;
+    padding: 5px;
+ }
+ p.unlimited{
+    margin-left: 90px;
+    font-size: 20px;
+ }
+ h1.sub{
+    font-weight: 600;
+    margin-left: 100px;
+    font-weight: 200;
+    font-size: 40px;
+ }
+ h2.h2{
+    font-weight: 600;
+    margin-left: 100px;
+    font-weight: 200;
+    font-size: 40px;
+ }
+ p.mode{
+     margin: 30px 0 0 70px; 
+    font-size: 20px;
+ }
+ hr.line{
+    width: 60px;
+    
+ }
+ hr.free{
+    width: 50px;
+ }
+ hr.line2{
+   height: 50px;
+   width: 100px;
+   text-align: end;
+ }
+ p.from{
+   margin: 5px 0 10px 150px;
+ }
+ h4.text-danger{
+   margin: 5px 0 10px 140px;
+ }
+ h4.month{
+   font-size: 20px;
+   text-align: center;
+   padding-left: 10px;
+ } */
+
+ .subs,.fre,.mobile{
+   text-align: center;
+ }
+ span.ipad{
+   margin-left: 50px;
+   padding: 5px;
+}
+   
+   
+    h4.month{
+      font-size: 20px;}
+h1.sub{
+         font-weight: 600 px;
+         font-size: 40px;
+ }
+a.down{
+   text-decoration: none;
+   color: white;
+   display: inline-block;
+   background-color: rgb(182, 84, 84);
+   padding: 20px;
+   font-size: 20px;
+}
+p.require{
+   font-size: 20px;
+   font-weight: 300;
+}
+p.mode{
+   padding: 20px;
+}
+
+/* section6 */
+.heading{
+   text-align: center;
+}
+img.rounded-circle{
+   size: 100px;
+}
+.inbox1,.inbox2,.inbox3{
+   text-align: center;
+}
+.last{
+   text-align: center;
+
+}
+.lin{
+   border-left: 1px solid crimson;
+   border-right: 1px solid crimson;
+}
